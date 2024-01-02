@@ -1,0 +1,27 @@
+@use "variables" as *;
+
+.footer {
+    padding: 12px;
+    background-color: $infoText;
+    text-align: center;
+
+    &__links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        &__item {
+            font-size: 30px;
+            margin: 12px;
+        }
+    }
+
+    &__main-text {
+        font-size: 18px;
+    }
+
+    &__last-text {
+        font-size: 14px;
+        margin-top: 6px;
+    }
+}
