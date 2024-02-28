@@ -1,9 +1,9 @@
 # Página EBAC Tech Talks
 
 Página que apresenta uma contagem regressiva para um evento. Foi desenvolvida em **HTML**, **CSS** e **JavaScript** e **Bootstrap Icons**.
-Desenvolvimento do projeto focado em perfomance com uso do pré-processador de CSS **SASS** e também do **Parcel** como empacotador da aplicação.
+Desenvolvimento do projeto focado em performance com uso do pré-processador de CSS **SASS** e também do **Parcel** como empacotador da aplicação.
 
-Este projeto foi realizado com a aplicação da **Metodologia BEM** em toda estrutura do projeto, buscando aplicar as melhoras práticas de programação para desenvolvimento web.
+Este projeto foi realizado com a aplicação da **Metodologia BEM** em toda sua estrutura, buscando aplicar as melhores práticas de programação para desenvolvimento web.
 
 Projeto desenvolvido no curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
