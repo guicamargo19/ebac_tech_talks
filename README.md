@@ -2,7 +2,7 @@
 
 ## Apresentação do projeto
 
-
+https://github.com/guicamargo19/ebac_tech_talks/assets/133445061/2cab5798-f1c9-4735-aa29-f46358315aae
 
 Página que apresenta uma contagem regressiva para um evento. Foi desenvolvida em **HTML** e **CSS** com **JavaScript**
 e **Bootstrap Icons**. Desenvolvimento do projeto focado em performance com uso do pré-processador de CSS **SASS** e
