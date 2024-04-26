@@ -1,7 +1,7 @@
 @use "variables" as *;
 
 .footer {
-    padding: 12px;
+    padding: 30px;
     background-color: $infoText;
     text-align: center;
 
@@ -13,15 +13,30 @@
         &__item {
             font-size: 30px;
             margin: 12px;
+            transition: all ease-in-out .3s;
+
+            &:hover {
+                transform: scale(1.1);
+                transition: all ease-in-out .2s;
+            }
         }
     }
 
     &__main-text {
         font-size: 18px;
-    }
+        
+        a { 
+            text-decoration: none;
+            color: #fff;
 
-    &__last-text {
-        font-size: 14px;
-        margin-top: 6px;
+            strong {
+                    transition: all ease-in-out .2s;
+
+                    &:hover {
+                    color: darkgrey !important;
+                    transition: all ease-in-out .2s;
+                }
+            }
+        }
     }
 }

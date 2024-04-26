@@ -1,6 +1,8 @@
 # EBAC Tech Talks
 
-<img src="./src/images/talks.png">
+## Apresentação do projeto
+
+
 
 Página que apresenta uma contagem regressiva para um evento. Foi desenvolvida em **HTML** e **CSS** com **JavaScript**
 e **Bootstrap Icons**. Desenvolvimento do projeto focado em performance com uso do pré-processador de CSS **SASS** e
